@@ -12,7 +12,7 @@ There are sixty-four identical game pieces called disks, which are light on one 
 
 
 # Usage 
-- Open the terminal in the current directory then type `make` and then run `./main`
+- Open the git bash in the current directory then type `make` and then run `main` with `./main`.
 
 Gameplay options:
 - Player vs Player
