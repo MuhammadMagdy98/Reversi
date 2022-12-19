@@ -7,7 +7,7 @@ There are sixty-four identical game pieces called disks, which are light on one 
 
 # Demo
 
-[![Reversi Demo](https://upload.wikimedia.org/wikipedia/commons/2/20/Othello-Standard-Board.jpg)](https://youtu.be/V5YNMd5N5BY)
+[![Reversi Demo](https://upload.wikimedia.org/wikipedia/commons/2/20/Othello-Standard-Board.jpg)](https://youtu.be/39gKaKOrezs)
 
 
 
